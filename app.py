@@ -7,4 +7,6 @@ class parent:
         
 
 a=parent("Shree", 21)
-a.intro()        
+a.intro()    
+b=parent("Sneha",23)
+b.intro()
